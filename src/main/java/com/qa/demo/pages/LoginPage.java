@@ -7,7 +7,7 @@ public class LoginPage {
 	}
 	
 	public void Uname() {
-		System.out.println("Enter User name");
+		System.out.println("Enter Username");
 	}
 	
 	public void Password() {
